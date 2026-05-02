@@ -136,6 +136,7 @@
   "Export-MailboxDiagnosticLogs": "This cmdlet is available in on-premises Exchange and in the cloud-based service. Some parameters and settings might be exclusive to one environment or the other.",
   "Export-Message": "This cmdlet is available only in on-premises Exchange.",
   "Export-MigrationReport": "This cmdlet is available in on-premises Exchange and in the cloud-based service. Some parameters and settings might be exclusive to one environment or the other.",
+  "Export-PurviewConfig": "This cmdlet is available only in Security & Compliance PowerShell. For more information, see Security & Compliance PowerShell.",
   "Export-QuarantineMessage": "This cmdlet is available only in the cloud-based service.",
   "Export-RecipientDataProperty": "This cmdlet is available only in on-premises Exchange.",
   "Export-TransportRuleCollection": "This cmdlet is available in on-premises Exchange and in the cloud-based service. Some parameters and settings might be exclusive to one environment or the other.",
