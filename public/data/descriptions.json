@@ -605,6 +605,7 @@
   "Import-UMPrompt": "This cmdlet is available only in on-premises Exchange.",
   "Install-TransportAgent": "This cmdlet is available only in on-premises Exchange.",
   "Install-UnifiedCompliancePrerequisite": "This cmdlet is available only in Security & Compliance PowerShell. For more information, see Security & Compliance PowerShell.",
+  "Invoke-ChangeMeetingOrganizer": "This cmdlet is available only in the cloud-based service.",
   "Invoke-ComplianceSearchActionStep": "This cmdlet is available in on-premises Exchange and in the cloud-based service. Some parameters and settings might be exclusive to one environment or the other.",
   "Invoke-ComplianceSecurityFilterAction": "This cmdlet is available only in Security & Compliance PowerShell. For more information, see Security & Compliance PowerShell.",
   "Invoke-HoldRemovalAction": "This cmdlet is available only in Security & Compliance PowerShell. For more information, see Security & Compliance PowerShell.",
