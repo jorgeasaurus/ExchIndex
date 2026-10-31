@@ -1609,7 +1609,7 @@
   "Get-CsTenantNetworkSite": "Returns information about the network site setting in the tenant. Tenant network site is used for Location Based Routing.",
   "Get-CsTenantNetworkSubnet": "Returns information about the network subnet setting in the tenant. Tenant network subnet is used for Location Based Routing.",
   "Get-CsTenantTrustedIPAddress": "Returns information about the external trusted IPs in the tenant. Trusted IP address from user's endpoint will be checked to determine which internal subnet the user's endpoint is located.",
-  "Get-CsUserCallingSettings": "This cmdlet shows call forwarding, simultaneous ringing, call group, busy-on-busy, and delegation settings for a user.",
+  "Get-CsUserCallingSettings": "This cmdlet shows call forwarding, simultaneous ringing, call group, busy-on-busy, and delegation settings for users. It also supports Shared Line Appearance (SLA) for resource accounts, including forwarding, unanswered call settings, maximum concurrent calls, and CAP or user delegation.",
   "Get-CsUserPolicyAssignment": "This cmdlet is used to return the policy assignments for a user, both directly assigned and inherited from a group.",
   "Get-CsUserPolicyPackage": "This cmdlet supports retrieving the policy package that's assigned to a user.",
   "Get-CsUserPolicyPackageRecommendation": "This cmdlet supports retrieving recommendations for which policy packages are best suited for a given user.",
